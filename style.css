@@ -16,7 +16,7 @@ body {
     overflow-x: hidden;
 }
 
-/* Animated Background */
+/* fundo animado */
 .stars {
     position: fixed;
     top: 0;
@@ -108,7 +108,7 @@ nav a:hover {
     color: #60A5FA;
 }
 
-/* Main Content */
+/* Main conteudo */
 main {
     position: relative;
     z-index: 1;
@@ -117,7 +117,7 @@ main {
     padding: 0 1rem;
 }
 
-/* Hero Section */
+/* Hero */
 .hero {
     text-align: center;
     padding: 5rem 0;
@@ -150,7 +150,7 @@ main {
     color: #60A5FA;
 }
 
-/* Technologies Section */
+/* Technologies */
 .technologies {
     padding: 5rem 0;
 }
@@ -302,7 +302,7 @@ main {
     color: #60A5FA;
 }
 
-/* Responsive Design */
+/* design responsinvo */
 @media (max-width: 768px) {
     .header-content {
         flex-direction: column;
